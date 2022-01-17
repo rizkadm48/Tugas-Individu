@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\PlatformOOP\PlatformOOP\bin\Debug\netcoreapp3.1\PlatformOOP.exe
+C:\Users\user\source\repos\PlatformOOP\PlatformOOP\bin\Debug\netcoreapp3.1\PlatformOOP.deps.json
+C:\Users\user\source\repos\PlatformOOP\PlatformOOP\bin\Debug\netcoreapp3.1\PlatformOOP.runtimeconfig.json
+C:\Users\user\source\repos\PlatformOOP\PlatformOOP\bin\Debug\netcoreapp3.1\PlatformOOP.runtimeconfig.dev.json
+C:\Users\user\source\repos\PlatformOOP\PlatformOOP\bin\Debug\netcoreapp3.1\PlatformOOP.dll
+C:\Users\user\source\repos\PlatformOOP\PlatformOOP\bin\Debug\netcoreapp3.1\PlatformOOP.pdb
+C:\Users\user\source\repos\PlatformOOP\PlatformOOP\obj\Debug\netcoreapp3.1\PlatformOOP.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PlatformOOP\PlatformOOP\obj\Debug\netcoreapp3.1\PlatformOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PlatformOOP\PlatformOOP\obj\Debug\netcoreapp3.1\PlatformOOP.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PlatformOOP\PlatformOOP\obj\Debug\netcoreapp3.1\PlatformOOP.AssemblyInfo.cs
+C:\Users\user\source\repos\PlatformOOP\PlatformOOP\obj\Debug\netcoreapp3.1\PlatformOOP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PlatformOOP\PlatformOOP\obj\Debug\netcoreapp3.1\PlatformOOP.dll
+C:\Users\user\source\repos\PlatformOOP\PlatformOOP\obj\Debug\netcoreapp3.1\PlatformOOP.pdb
+C:\Users\user\source\repos\PlatformOOP\PlatformOOP\obj\Debug\netcoreapp3.1\PlatformOOP.genruntimeconfig.cache
